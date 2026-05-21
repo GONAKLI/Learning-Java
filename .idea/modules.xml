@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter 10 - Abstraction and Interfaces/Chapter 10 - Abstraction and Interfaces.iml" filepath="$PROJECT_DIR$/Chapter 10 - Abstraction and Interfaces/Chapter 10 - Abstraction and Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 3/Chapter 3.iml" filepath="$PROJECT_DIR$/Chapter 3/Chapter 3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 4/Chapter 4.iml" filepath="$PROJECT_DIR$/Chapter 4/Chapter 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 5/Chapter 5.iml" filepath="$PROJECT_DIR$/Chapter 5/Chapter 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 6 - Arrays/Chapter 6 - Arrays.iml" filepath="$PROJECT_DIR$/Chapter 6 - Arrays/Chapter 6 - Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 7 - Classes and Object/Chapter 7 - Classes and Object.iml" filepath="$PROJECT_DIR$/Chapter 7 - Classes and Object/Chapter 7 - Classes and Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Chapter 8 - Unary Switch and loops/Chapter 8 - Unary Switch and loops.iml" filepath="$PROJECT_DIR$/Chapter 8 - Unary Switch and loops/Chapter 8 - Unary Switch and loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 9 - Encapsulation and Access Modifiers/Chapter 9 - Encapsulation and Access Modifiers.iml" filepath="$PROJECT_DIR$/Chapter 9 - Encapsulation and Access Modifiers/Chapter 9 - Encapsulation and Access Modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java Coding.iml" filepath="$PROJECT_DIR$/Java Coding.iml" />
     </modules>
   </component>
