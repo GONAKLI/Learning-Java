@@ -1,0 +1,3 @@
+this is a test file,
+to test the usage of fileReader
+thanks for testing this file.
